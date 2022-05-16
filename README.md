@@ -3,7 +3,7 @@
 TECNOLOGIAS USADAS
 - React
 - Typescript
-COMO EXECUTAR
+# COMO EXECUTAR
 Clone o projeto todo e abra o terminal na área dele.
 Execute:
 cd <pasta do arquivo>
